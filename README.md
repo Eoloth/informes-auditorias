@@ -18,6 +18,9 @@ En este repositorio encontrarás ejemplos reales de informes de auditorías de s
 - 📋 `checklist_iso27001.txt` *(en desarrollo)*  
   Lista base de control alineada a ISO/IEC 27001.
 
+- 📄 `plantillad e ifnorme técnico`
+  Ejemplo para confección de informes
+
 ---
 
 ## 🧠 Áreas abordadas
